@@ -1,0 +1,10 @@
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\Kriptoloji_SHA384\Kriptoloji_SHA384\bin\Debug\Kriptoloji_SHA384.exe.config
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\Kriptoloji_SHA384\Kriptoloji_SHA384\bin\Debug\Kriptoloji_SHA384.exe
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\Kriptoloji_SHA384\Kriptoloji_SHA384\bin\Debug\Kriptoloji_SHA384.pdb
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\Kriptoloji_SHA384\Kriptoloji_SHA384\obj\Debug\Kriptoloji_SHA384.csprojAssemblyReference.cache
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\Kriptoloji_SHA384\Kriptoloji_SHA384\obj\Debug\Kriptoloji_SHA384.Form1.resources
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\Kriptoloji_SHA384\Kriptoloji_SHA384\obj\Debug\Kriptoloji_SHA384.Properties.Resources.resources
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\Kriptoloji_SHA384\Kriptoloji_SHA384\obj\Debug\Kriptoloji_SHA384.csproj.GenerateResource.cache
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\Kriptoloji_SHA384\Kriptoloji_SHA384\obj\Debug\Kriptoloji_SHA384.csproj.CoreCompileInputs.cache
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\Kriptoloji_SHA384\Kriptoloji_SHA384\obj\Debug\Kriptoloji_SHA384.exe
+C:\Users\Erkin\Documents\Visual Studio 2019\Projects\Kriptoloji_SHA384\Kriptoloji_SHA384\obj\Debug\Kriptoloji_SHA384.pdb
