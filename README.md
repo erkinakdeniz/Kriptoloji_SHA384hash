@@ -1,6 +1,6 @@
   
 # Kriptoloji_SHA384hash
-**SHA384** Şifreleme işlemi C#
+**SHA384** (hash) fonksiyon/algoritması C#
 
 
 ![lisance](https://img.shields.io/apm/l/vim-mode)
